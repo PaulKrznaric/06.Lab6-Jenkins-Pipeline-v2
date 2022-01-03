@@ -1,1 +1,4 @@
+terraform.tfstate
+.terraform.lock.hcl
+.terraform
 ~$DO1010 Assignment 6.docx
